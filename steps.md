@@ -12,3 +12,4 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi “FizzBuzz” al posto 
     **se** il numero è multiplo di 3 & 5 lo sostituisco con 'FizzBuzz';
     <br>
     **altrimenti** il numero rimane invariato(i);
+4. Stampo in pagina.
